@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh</h3>
 
 
-![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=false&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=false&config.timezone=Asia%2FDhaka)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
