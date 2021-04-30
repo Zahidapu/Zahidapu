@@ -3,7 +3,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.header=0&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FDhaka)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zahidapu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
