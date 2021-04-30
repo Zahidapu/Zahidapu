@@ -2,6 +2,9 @@
 
 ## A Web Developer specializes in front-end technologies
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zahidapu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jahidapu) 
