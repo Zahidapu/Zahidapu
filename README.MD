@@ -1,10 +1,13 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh</h3>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=false&config.timezone=Asia%2FDhaka)
 ![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FDhaka)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### Languages, Tools and Technologies:
 
 <a href='#'><img align="left" alt="Visual Studio Code" width="26px" margin-bottom="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px"/><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px"/><img align="left"  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
