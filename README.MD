@@ -17,4 +17,6 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26px"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidapu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+
+
+![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&projects=1&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FDhaka)
