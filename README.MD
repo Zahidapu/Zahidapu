@@ -14,10 +14,6 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26px"/><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px"/><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px"/><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/><img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26px"/></a>
 
-
-<br/>
-## My Github Stats
-
   <br/>
       <a href="https://github.com/zahidapu/github-readme-stats"><img alt="Jahid Apu Github Stats" src="https://github-readme-stats.vercel.app/api?username=zahidapu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/zahidapu/github-readme-stats"><img alt="Jahid Apu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidapu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
