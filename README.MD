@@ -1,6 +1,6 @@
 ![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.community=0&base.metadata=0&introduction=1&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=false&config.timezone=Asia%2FDhaka)
 
-![GitHub metrics](https://metrics.lecoq.io/zahidapu)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zahidapu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
