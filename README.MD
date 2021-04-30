@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/zahidapu?template=classic&base.community=0&base.metadata=0&introduction=1&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=false&config.timezone=Asia%2FDhaka)
+
 
 ### Hey there ! I’m Jahid Apu
 
