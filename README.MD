@@ -19,11 +19,19 @@
 <br/>
 <br/>
 
-### Connect with me:
+## Connect with me:
+<p align="left">
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jahidapu) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/zahidapu.a)
+<a href = "https://www.linkedin.com/in/jahidapu"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
+<a href = "https://www.facebook.com/zahidapu.a"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+
+<a href = "https://twitter.com/jahidapu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/jahidapu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+
+</p>
 ### Languages, Tools and Technologies:
 
 <a href='#'><img align="left" alt="Visual Studio Code" width="26px" margin-bottom="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px"/><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px"/><img align="left"  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
