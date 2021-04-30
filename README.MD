@@ -16,12 +16,8 @@
   <a href="https://github.com/zahidapu/github-readme-stats"><img alt="Jahid Apu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidapu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zahidapu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
