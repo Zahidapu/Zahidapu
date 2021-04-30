@@ -27,13 +27,12 @@
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
 </p>
 
-
-
 <br/>
 <br/>
 <br/>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidapu&show_icons=true&theme=react)
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+      
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidapu&show_icons=true&theme=react)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
