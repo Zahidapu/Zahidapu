@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">I design and code beautifully simple things, and I love what I do</h3>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
