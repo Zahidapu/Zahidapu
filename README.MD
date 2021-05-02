@@ -37,14 +37,14 @@
 <br/>
 <br/>
 <br/>
-      
+   <h2></h2>   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidapu&show_icons=true&theme=react)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<h1></h1>
+
 
 ## Connect with me:
 <p align="left">
