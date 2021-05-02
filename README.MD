@@ -11,9 +11,10 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zahidapu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h1></h1>
+
 
 ### Languages, Tools and Technologies:
+<h1></h1>
 
 
 <p align="left"> 
