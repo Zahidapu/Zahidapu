@@ -1,6 +1,7 @@
-<img src="https://i.ibb.co/Z2TK6G2/Web-Developer.png"/>
+<img src="https://i.ibb.co/87XPyRm/1619954523145.jpg"/>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid.</h1>
-<h3>I design and code beautifully simple things, and I love what I do</h3>
+<h3 align="center">I design and code beautifully simple things, and I love what I do</h3>
+<h6 align="center">Scan to visit my Website</h6>
 
 
 
