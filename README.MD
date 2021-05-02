@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid</h1>
 <h3 align="center">I design and code beautifully simple things, and I love what I do </h3>
-## [Visit-my-Portfolio](jahidapu-dev.web.app/)
+jahidapu-dev.web.app
 
 
 
