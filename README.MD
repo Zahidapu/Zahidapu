@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid.</h1>
-<h3 align="center">I design and code beautifully simple things, and I love what I do</h3>
+<h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid.</h1>
+<h3>I design and code beautifully simple things, and I love what I do</h3>
 <img  src="https://i.ibb.co/87XPyRm/1619954523145.jpg" width="150" height="150"/>
 <h6>Scan to visit my Website</h6>
 
