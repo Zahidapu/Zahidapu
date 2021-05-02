@@ -14,7 +14,7 @@
 <h1></h1>
 
 ### Languages, Tools and Technologies:
-<h1></h1>
+
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -44,6 +44,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+<h1></h1>
 
 ## Connect with me:
 <p align="left">
