@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jahid.</h1>
 <h3 align="center">I design and code beautifully simple things, and I love what I do</h3>
-<img align="center" src="https://i.ibb.co/87XPyRm/1619954523145.jpg" width="45" height="45"/>
+<img margin-left="500px" src="https://i.ibb.co/87XPyRm/1619954523145.jpg" width="100" height="100"/>
 <h6 align="center">Scan to visit my Website</h6>
 
 
